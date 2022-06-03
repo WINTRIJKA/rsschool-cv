@@ -1,0 +1,25 @@
+body {
+    background-color: white;
+
+
+}
+p {
+    color: #64c8d1;
+
+}
+ input[type = "submit"] {
+    background: linear-gradient(90deg,#659c27,#46a35f);
+    font-weight: 700;
+    font-size: 20px;
+    text-align: center;
+    border: 5px solid black;
+     margin-right: 200px;
+
+
+    outline: none;
+    letter-spacing: 2px;
+
+
+    cursor: pointer;
+    text-transform: uppercase;
+}
