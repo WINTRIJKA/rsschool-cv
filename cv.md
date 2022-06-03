@@ -1,7 +1,7 @@
 # __OLga Khayrulina__
 ***
 
-<img src="./img/olga.png" width="190" alt="photo">
+<img src="./img/olga.png" width="200" alt="photo">
 
 ## Front End Developer
 ***
